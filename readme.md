@@ -1,3 +1,5 @@
+## Notion link
+https://www.notion.so/PlayStore-09ad706ff4294690be05925dff4dc61c
 # Play store data analysis
 
 in this repository is made an analysis from data of apps in play store, this analysis was made to answer 3 questions:
